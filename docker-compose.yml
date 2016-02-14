@@ -1,4 +1,4 @@
 lumberjack:
   build: .
   volumes:
-    - "/Users/Shared/Code/lumberjack:/go"
+    - "/apps/lumberjack:/usr/src/lumberjack"
